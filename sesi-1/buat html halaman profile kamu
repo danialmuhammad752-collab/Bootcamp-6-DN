@@ -1,0 +1,26 @@
+buat html halaman profile biodata kamu seperti
+tampilan di samping menggunakan ChatGPT
+
+Section 1 menu
+
+Section 2 judul di kiri dan gambar di kanan
+
+section 3 biodata dengan 6 box
+
+section 4 porftolio
+
+menggunakan htm table
+
+======================
+
+Buatkan halaman HTML yang memuat tentang biodata dengan detail sebagai berikut
+
+SSection 1 menu (di sebelah kiri; logo dan di sebelah kanan ada: Header, porftolio).
+
+Section 2 judul di kiri dan gambar di kanan
+
+section 3 biodata dengan 6 box dibagi 3 kolom dan 2 baris
+
+section 4 porftolio 3 kolom (gambar, judul portfolio, deskripsi singkat portfolio)
+
+buatkan kodenya hanya dengan html tabel tanpa css dan JS sama sekali
